@@ -1,0 +1,93 @@
+
+body{
+    background-color: rgb(73, 37, 11);
+
+}
+
+.nav-wrapper{
+
+
+    background-color:chocolate;
+    font-weight: 600;
+    font-family:bodoni
+    
+};
+
+
+.carousel-item{
+width: auto;
+height: 200vh;
+
+}
+
+  
+
+  
+.slider  .indicators  .indicator-item.active{
+
+background-color: chocolate;
+
+
+}
+.move{
+
+margin-top: 80;
+
+
+}
+
+
+.parallax-container{
+min-height: 300px;
+height: auto;
+
+}
+.icon{
+    color: chocolate;
+
+
+}
+
+
+.icon1{
+    
+    
+    position: relative;
+    top:8px;
+    left:-3px;
+
+
+}
+.footer-one{
+
+background-color: chocolate;
+
+}
+
+.footer-two{
+
+    background-color: rgb(119, 58, 15);
+    
+    }
+    .adjust{
+background-color: rgb(73, 37, 11);
+opacity: 0.8;
+
+    }
+
+
+    .logo{
+margin-left: 20px;
+
+
+    }
+
+    .sidenav{
+background-color: chocolate;
+
+
+    }
+    .descrition{
+background-color: rgb(102, 51, 14);
+
+    }
